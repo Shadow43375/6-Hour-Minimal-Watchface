@@ -1,0 +1,28 @@
+{
+    "author": "enyab.null@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "6hourclockfaceminimal",
+    "pebble": {
+        "displayName": "6HourClockFaceMinimal",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "219fafd6-1251-4a8d-80f9-b9fa03dcbe27",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
